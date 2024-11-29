@@ -68,9 +68,3 @@ Essa palestra aborda a performance do Java em diferentes cenários, comparando-o
 - Para cálculos intensivos e tarefas pesadas, **Java** mostra uma performance superior.
 
 ---
-
-### Passos
-
-1. **Inicie o servidor Java**:
-   ```bash
-   mvn spring-boot:run
