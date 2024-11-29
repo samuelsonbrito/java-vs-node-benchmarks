@@ -1,6 +1,8 @@
 # O Java é Lento?
 
-Essa palestra aborda a performance do Java em diferentes cenários, comparando-o ao Node.js. Utilizando o **ApacheBench (ab)** para simular cargas de trabalho, buscamos responder à pergunta: *"O Java é lento?"*.
+# Teste de Desempenho: Comparação entre Java e Node.js
+
+Este repositório contém os testes de desempenho para comparar uma aplicação Java (Spring Boot) e uma aplicação Node.js. Os testes foram realizados usando o ApacheBench para medir o desempenho de endpoints simples e complexos.
 
 ---
 
