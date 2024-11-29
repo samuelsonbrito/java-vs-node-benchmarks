@@ -23,8 +23,9 @@ Essa palestra aborda a performance do Java em diferentes cenários, comparando-o
 - **Nome do dispositivo**: DESKTOP-U9RV4E2  
 - **Processador**: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz  
 - **Memória RAM**: 16,0 GB (15,8 GB utilizável)  
-- **Sistema Operacional**: Windows 10 Pro (64 bits)  
-
+- **Sistema Operacional**: Windows 10 Pro (64 bits)
+- **Versão do Java**: 21 LTS  
+- **JDK**: Temurin  
 ---
 
 ## Resultados dos Testes
