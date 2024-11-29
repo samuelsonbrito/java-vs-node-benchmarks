@@ -68,14 +68,6 @@ Essa palestra aborda a performance do Java em diferentes cenários, comparando-o
 
 ---
 
-## Como Reproduzir os Testes
-
-### Pré-requisitos
-
-1. **Java 17+** e **Spring Boot** instalados.  
-2. **Node.js 14+** instalado.  
-3. **ApacheBench (ab)** disponível no sistema.
-
 ### Passos
 
 1. **Inicie o servidor Java**:
